@@ -1,0 +1,221 @@
+ECON 238   (Economic Development)
+Spring 2017, Department of Economics, Colgate University
+
+	SYLLABUS	
+
+Instructor: Tenzin Yindok
+Email: tyindok@colgate.edu	
+Office Hours: Tuesday and Wednesday, 1pm to 3pm, or by appointment
+Classroom: OLIN 304
+Meetings:  238A meets from 8:30-9:45 am on Tuesdays and Thursdays, and 238B meets from 9:55-11:10 am on Tuesdays and Thursdays
+
+
+Course Objectives
+The goal of this course is to introduce theoretical foundations and empirical evidence for the analysis of a central question in economics: why are some countries poor and others rich?
+Calculus is not required for this course, however some of the material will require you to be comfortable with high school algebra. 
+
+Organization
+Lecture notes, assignments, additional readings and announcements will be posted on Moodle. You are expected to take supplementary notes in class.
+
+Resources
+Required reading will either be available free online or available as an e-book through the Colgate library. The following references are available as e-books through the library.
+Easterly, W., The Elusive Quest for Growth: Economists’ Adventures and Misadventures in the Tropics, MIT Press, 2001. 
+Banerjee, A., and E. Duflo, Poor Economics, New York: Public Affairs, 2011. 
+
+Grading 
+Midterm
+30%
+Final
+35%
+Quizzes 
+20%
+Group Assignment
+15%
+
+Midterm and Final
+The midterm will take place in class during the week of March 7. The exact date will be announced as soon as possible. If you have extenuating scheduling conflicts, please talk to me well in advance so that a make-up exam can be scheduled before the midterm week. 
+Final exam will be self-scheduled.
+
+Quizzes (20%)
+I will post four practice sets over the course of the term. Instead of handing them in for grading, you will be required to answer a short quiz on the material in each practice set in class. The questions will be multiple-choice and true/false. 
+Although the format of the midterm and the final exams will be different from these quizzes, the purpose is to incentivize you to regularly review the material. 
+
+Group Assignment (15%)
+In groups of three, you will prepare a brief report on one of the journal articles listed on Moodle, and give a 20-minute presentation in class. Detailed instructions on the assignment are posted on Moodle.
+The report is due on April 28 by 5 pm.
+
+Honor Code
+Plagiarism and cheating are serious offenses. Exams should represent each student’s own work. The group report is designed to encourage learning from your peers through genuine teamwork. I expect all group members to contribute substantively. The report does not require any original research, but you should take care to cite all your references appropriately. If you need any clarification for what constitutes academic dishonesty, you can consult the University Academic Honor Code. 
+
+Learning Services
+Please let me know if you have a particular need or concern. If you are a student who may need special accommodations, you can contact Lynn Waldman, Director of Academic Program Support and Disability Services at the Center for Learning, Teaching and Research (315-228-7375). The center is also open to all students who would like academic assistance. 
+
+Topics and Schedule
+The topics in this course can be broadly categorized into two. The first part of the course will discuss major conceptual models of economic growth and underdevelopment, and their proximate and fundamental determinants. 
+In the second part of the course, we will discuss specific problems and policies that are especially relevant to developing economies. For each topic, we will review the key research questions, major empirical findings and discuss policy recommendations.  
+Required readings will be posted on Moodle. 
+The schedule below is subject to change; the updated version will be available on the course’s Moodle home page.
+Week
+Date
+Topic
+Exam/ Quiz
+1
+Jan 24
+Introduction
+
+
+
+
+Jan 26
+Introduction
+
+
+2
+Jan 31
+Classic Growth Theory 
+
+
+
+
+Feb 2
+Classic Growth Theory 
+Practice 1 posted
+3
+Feb 7
+Contemporary Models
+
+
+
+
+Feb 9
+Contemporary Models 
+Quiz 1
+4
+Feb 14
+Fundamental causes of dev.
+
+
+
+
+Feb 16 
+Fundamental causes of dev.
+
+
+5
+Feb 21
+Population 
+Practice 2 posted
+
+
+Feb 23
+Population
+
+
+6
+Feb 28
+Poverty 
+Quiz 2
+
+
+March 2
+Poverty/ Review
+
+
+7
+March 7
+Midterm 
+
+
+
+
+March 9
+No class, read “The Economic Lives of the Poor”
+	
+
+
+ (Recess)
+
+
+
+
+8
+March 21
+Discussion of “The Economic Lives of the Poor”/ Inequality 
+
+
+
+
+March 23
+Inequality
+Practice 3 posted
+9
+March 28
+Education and Health
+
+
+
+
+March 30
+Education and Health
+Quiz 3
+10
+April 4
+Credit Market
+
+
+
+
+April 6
+Microfinance
+
+
+11
+April 11
+Governance 
+
+
+
+
+April 13
+Governance
+Practice 4 posted
+12
+April 18
+Catch up
+
+
+
+
+April 20
+Presentations 1 and 2
+
+
+13
+April 25
+Presentations 3 and 4
+
+
+
+
+April 27
+Presentations 5 and 6
+
+
+14
+May 2
+Conclusions 1
+
+
+
+
+May 4
+Conclusions 2
+Quiz 4 
+
+
+Course Objectives
+Know stylized facts about income differences and growth rates across countries and over time, and why economic growth matters.
+Be comfortable with various measures and definitions of development, poverty and inequality.
+Know the difference between proximate and fundamental causes of economic development.
+Gain an understanding of the ground realities in developing countries, in terms of the economic lives of individuals and households, and their economic and political environment.
+Know some of the key debates among development economists in terms of development policy.
