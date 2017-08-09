@@ -4,7 +4,7 @@ of all the dates in the syllabus and the context for each extracted date. The pe
 created spreadsheet to add the event title and event description (from the context) for each given date. We will then be able to 
 programmatically create these events on the InstaTute Calendars. 
 
-#Installation
+## Installation
 
 Install Python 2 if you DON'T have python or if you have python 3.x version
   
@@ -17,7 +17,7 @@ are all working on the same environment and the same dependencies
     
     pip install datefinder
 
-#How to Use
+## How to Use
 
     python Instatute.py NAME_OF_SYLLABUS_FILE, NAME_OF_COURSE
 
