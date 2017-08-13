@@ -4,7 +4,7 @@ import requests
 import csv
 import json
 import ctypes
-import sys
+
 
 def add_classes():
 	url ='http://hyve.bitnamiapp.com/colgate/index.php?qa=login&to=index.php%3Fqa%3Dadmin%26qa_1%3Dcategories'
