@@ -16,7 +16,7 @@ are all working on the same environment and the same dependencies
 
 Finally, you need to make sure you have git on your computer. This link might help: http://rogerdudler.github.io/git-guide/ 
 Then you need to download this code repository by running 
-	git clone http://rogerdudler.github.io/git-guide/ 
+	git clone https://github.com/achafamo/DateParser.git
 on your terminal 
 
 ## How to Use	
