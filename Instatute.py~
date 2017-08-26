@@ -3,6 +3,7 @@ import datetime
 import requests
 import csv
 import sys
+import scrapeDepartment
 
 MONTH_DICT  = {"Jan. ": "January ",
               "Feb. ": "February ",
