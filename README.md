@@ -22,7 +22,9 @@ Then you need to download this code repository by running
 on your terminal 
 
 ## How to Use	
-	python Instatute.py "Exact section code"
+Go to downloded folder and run the following command
+
+	python Instatute.py "Exact class section code"
 	eg. python Instatute.py "ECON 375 A"
 
 This will create two csv files: "events.csv" and "course.csv". The file that we need to edit is "events.csv"
